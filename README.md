@@ -1,2 +1,4 @@
 # UnityProject
 This is the final project I submitted for my game dev 2 course and is playable on [GameJolt](https://gamejolt.com/games/jtoafGameDev2/805358). This iteration was developed with the help of a tutorial series from [Coding in Flow](https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U) and features various additions I created myself. I went into the original project with an incorrect understanding of Unity which lead to messy code, poor systems, and a lot of bugs. While I tried to save the original project, I eventually decided to scrap everything and follow that tutorial to fix my understanding of Unity as I figured it would make me a better developer in the long run. 
+
+The file structure of the final project ended up being a bit messy as I was running out of time to submit my project and I decided turning in a fucntional project was more important than organization. 
